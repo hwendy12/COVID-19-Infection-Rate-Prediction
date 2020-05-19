@@ -1,4 +1,4 @@
-# COVID19-predict-infection-rate
+# COVID-19 Infection Rate Prediction (County Level)
 
 **Authors:** <br>
 Wendy Hou (wh916@nyu.edu), Bichen Kou (bk2374@nyu.edu), Emmy Phung (mtp363@nyu.edu), Lily Zhou (yz6121@nyu.edu)
