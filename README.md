@@ -1,6 +1,7 @@
 # COVID-19 Infection Rate Prediction (County Level)
 
 **Authors:** <br>
+New York University Center for Data Science<br>
 Wendy Hou (wh916@nyu.edu)<br>
 Bichen Kou (bk2374@nyu.edu)<br>
 Emmy Phung (mtp363@nyu.edu)<br>
